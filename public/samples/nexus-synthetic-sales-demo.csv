@@ -1,0 +1,13 @@
+order_id,order_date,product_name,category,region,revenue
+SYN-1001,2026-01-05,Atlas Desk,Office,North,420.00
+SYN-1002,2026-01-12,Lumen Lamp,Home,North,89.50
+SYN-1003,2026-01-18,Atlas Desk,Office,West,420.00
+SYN-1004,2026-02-03,Nova Chair,Office,East,310.00
+SYN-1005,2026-02-09,Lumen Lamp,Home,South,89.50
+SYN-1006,2026-02-14,Nova Chair,Office,West,310.00
+SYN-1007,2026-02-21,Atlas Desk,Office,North,420.00
+SYN-1008,2026-03-02,Nova Chair,Office,East,310.00
+SYN-1009,2026-03-08,Lumen Lamp,Home,North,89.50
+SYN-1010,2026-03-15,Atlas Desk,Office,West,420.00
+SYN-1011,2026-03-22,Nova Chair,Office,South,310.00
+SYN-1012,2026-03-28,Refund Adjustment,Office,North,-45.00
